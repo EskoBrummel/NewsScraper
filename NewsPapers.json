@@ -1,14 +1,12 @@
 {
-	"cnn": {
-		"link": "http://edition.cnn.com/"
+	"wkdq": {
+		"link": "http://wkdq.com/"
 	},
-	"bbc": {
-		"rss": "http://feeds.bbci.co.uk/news/rss.xml",
-		"link": "http://www.bbc.com/"
+	"103gbf": {
+		"link": "http://103gbfrocks.com/"
 	},
-	"theguardian": {
-		"rss": "https://www.theguardian.com/uk/rss",
-		"link": "https://www.theguardian.com/international"
+	"wkbk": {
+		"link": "http://wkbkradio.com/"
 	},
   "breitbart": {
     "link": "http://www.breitbart.com/"
